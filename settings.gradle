@@ -1,1 +1,1 @@
-include ':app', ':log_utils'
+include ':app', ':log_utils', ':error_log'
